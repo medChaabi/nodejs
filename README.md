@@ -21,7 +21,6 @@ npm install express --save
 - [*] Route parameters
 - [*] Response methods
 - [*] app.route()
-- [*] express.Router
 # Middlewares
 # Template engine
 # ORMs - MongoDB, MySQL
